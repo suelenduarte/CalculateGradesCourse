@@ -4,4 +4,4 @@
 
 <h3>Final Output</h3>
 
-<img src="https://suelenduarte.github.io/CalculateGradesCourse/images/java-course.png" width = 400 height = 400> 
+<img src="https://suelenduarte.github.io/CalculateGradesCourse/images/java-course.png" width = 350 height = 400> 
